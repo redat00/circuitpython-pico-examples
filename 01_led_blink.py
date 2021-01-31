@@ -23,3 +23,5 @@ while True:
     time.sleep(0.2)
     led.value = False
     time.sleep(0.2)
+
+# You should now see your LED blinking !
