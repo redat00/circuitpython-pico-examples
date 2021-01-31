@@ -13,4 +13,4 @@ while True:
     time.sleep(1)
 
 # To test if it's working, try blowing some heat
-# on it with your mouth gently ! 
+# on it with your mouth gently! 

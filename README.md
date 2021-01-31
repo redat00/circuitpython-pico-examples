@@ -1,10 +1,10 @@
 # circuitpython-pico-examples
 
-Simple examples on how to get started with CircuitPython using a Raspberry Pico ! 
+Simple examples on how to get started with CircuitPython using a Raspberry Pico! 
 
 ## Installation of CircuitPython
 
-To install CircuitPython on your Raspberry Pico, you should visit the official CircuitPython website, where you'll be able to find an official firmware compiled for your Pico ! 
+To install CircuitPython on your Raspberry Pico, you should visit the official CircuitPython website, where you'll be able to find an official firmware compiled for your Pico! 
 
 [Official CircuitPython Pico page](https://circuitpython.org/board/raspberry_pi_pico/)
 
